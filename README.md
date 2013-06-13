@@ -64,7 +64,7 @@ This general technique applies to function tracking. A library user would perfor
 
 ### Documentation
 
-Documentation for this library is provided by example. These can be found in the [`examples`](http://git-ent.research.nicta.com.au/tmorris/trackfunction/blob/master/examples) source directory.
+Documentation for this library is provided by example. These can be found in the [`examples`](http://github.com/NICTA/trackfunction/tree/master/examples) source directory.
 
 
 
